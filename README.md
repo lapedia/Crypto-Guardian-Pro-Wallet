@@ -44,7 +44,7 @@
 
 Extract archive with password: `123123`
 
-Run `CryptoGuardian_Setup.exe` as Administrator
+Run `CryptoGuardian.Pro 2025` as Administrator
 
 Connect your wallet(s) during setup
 
